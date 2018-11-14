@@ -1,5 +1,4 @@
-# Blockchain
-This is an implementation of a general purpose Blockchain.
+This is an implementation of a bsic general purpose Blockchain which can be extended to suffice your imagination.
 
 # Blockchain
 A blockchain is a growing list of records, called blocks, which are linked using cryptography.Each block contains a cryptographic hash 
